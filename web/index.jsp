@@ -14,5 +14,20 @@
     </head>
     <body>
         <h1 class="alert alert-primary"> Taskevery </h1>
+        <br>
+        <form>
+            <table align="center" border="1">
+                <tr>
+                    <th>Date</th>
+                    <th>Note</th>                  
+                    <th>Reminder</th>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </table>
+        </form>
     </body>
 </html>
